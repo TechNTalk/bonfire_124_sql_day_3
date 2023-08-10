@@ -7,7 +7,7 @@ We were given a task to create a database capable of storing all relevant data f
 
 ### ERD
 
-![](https://github.com/TechNTalk/bonfire_124_sql_day_2/blob/main/Movie%20Theater.pdf)
+![]([https://github.com/TechNTalk/bonfire_124_sql_day_2/blob/main/Movie%20Theater.pdf](https://github.com/TechNTalk/bonfire_124_sql_day_3/blob/main/Car%20Dealership.png))
 
 
 ## Folder Structure:
